@@ -1,0 +1,2482 @@
+[
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Afganistán",
+      "alpha2code": "AF",
+      "alpha3code": "AFG",
+      "numeric_code": 4,
+      "phone_prefix": 93
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Albania",
+      "alpha2code": "AL",
+      "alpha3code": "ALB",
+      "numeric_code": 248,
+      "phone_prefix": 355
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Alemania",
+      "alpha2code": "DE",
+      "alpha3code": "DEU",
+      "numeric_code": 8,
+      "phone_prefix": 49
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Andorra",
+      "alpha2code": "AD",
+      "alpha3code": "AND",
+      "numeric_code": 276,
+      "phone_prefix": 376
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Angola",
+      "alpha2code": "AO",
+      "alpha3code": "AGO",
+      "numeric_code": 20,
+      "phone_prefix": 244
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Anguila",
+      "alpha2code": "AI",
+      "alpha3code": "AIA",
+      "numeric_code": 24,
+      "phone_prefix": 1264
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Antártida",
+      "alpha2code": "AQ",
+      "alpha3code": "ATA",
+      "numeric_code": 660,
+      "phone_prefix": 672
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Antigua y Barbuda",
+      "alpha2code": "AG",
+      "alpha3code": "ATG",
+      "numeric_code": 10,
+      "phone_prefix": 1268
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Arabia Saudita",
+      "alpha2code": "SA",
+      "alpha3code": "SAU",
+      "numeric_code": 28,
+      "phone_prefix": 966
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Argelia",
+      "alpha2code": "DZ",
+      "alpha3code": "DZA",
+      "numeric_code": 682,
+      "phone_prefix": 213
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Argentina",
+      "alpha2code": "AR",
+      "alpha3code": "ARG",
+      "numeric_code": 12,
+      "phone_prefix": 54
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Armenia",
+      "alpha2code": "AM",
+      "alpha3code": "ARM",
+      "numeric_code": 32,
+      "phone_prefix": 374
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Aruba",
+      "alpha2code": "AW",
+      "alpha3code": "ABW",
+      "numeric_code": 51,
+      "phone_prefix": 297
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Australia",
+      "alpha2code": "AU",
+      "alpha3code": "AUS",
+      "numeric_code": 533,
+      "phone_prefix": 61
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Austria",
+      "alpha2code": "AT",
+      "alpha3code": "AUT",
+      "numeric_code": 36,
+      "phone_prefix": 43
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Azerbaiyán",
+      "alpha2code": "AZ",
+      "alpha3code": "AZE",
+      "numeric_code": 40,
+      "phone_prefix": 994
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bélgica",
+      "alpha2code": "BE",
+      "alpha3code": "BEL",
+      "numeric_code": 31,
+      "phone_prefix": 32
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bahamas",
+      "alpha2code": "BS",
+      "alpha3code": "BHS",
+      "numeric_code": 44,
+      "phone_prefix": 1242
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bahrein",
+      "alpha2code": "BH",
+      "alpha3code": "BHR",
+      "numeric_code": 50,
+      "phone_prefix": 973
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bangladesh",
+      "alpha2code": "BD",
+      "alpha3code": "BGD",
+      "numeric_code": 52,
+      "phone_prefix": 880
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Barbados",
+      "alpha2code": "BB",
+      "alpha3code": "BRB",
+      "numeric_code": 48,
+      "phone_prefix": 1246
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Belice",
+      "alpha2code": "BZ",
+      "alpha3code": "BLZ",
+      "numeric_code": 56,
+      "phone_prefix": 501
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Benín",
+      "alpha2code": "BJ",
+      "alpha3code": "BEN",
+      "numeric_code": 84,
+      "phone_prefix": 229
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bhután",
+      "alpha2code": "BT",
+      "alpha3code": "BTN",
+      "numeric_code": 204,
+      "phone_prefix": 975
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bielorrusia",
+      "alpha2code": "BY",
+      "alpha3code": "BLR",
+      "numeric_code": 60,
+      "phone_prefix": 375
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Birmania",
+      "alpha2code": "MM",
+      "alpha3code": "MMR",
+      "numeric_code": 112,
+      "phone_prefix": 95
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bolivia",
+      "alpha2code": "BO",
+      "alpha3code": "BOL",
+      "numeric_code": 104,
+      "phone_prefix": 591
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bosnia y Herzegovina",
+      "alpha2code": "BA",
+      "alpha3code": "BIH",
+      "numeric_code": 68,
+      "phone_prefix": 387
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Botsuana",
+      "alpha2code": "BW",
+      "alpha3code": "BWA",
+      "numeric_code": 70,
+      "phone_prefix": 267
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Brasil",
+      "alpha2code": "BR",
+      "alpha3code": "BRA",
+      "numeric_code": 72,
+      "phone_prefix": 55
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Brunéi",
+      "alpha2code": "BN",
+      "alpha3code": "BRN",
+      "numeric_code": 76,
+      "phone_prefix": 673
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Bulgaria",
+      "alpha2code": "BG",
+      "alpha3code": "BGR",
+      "numeric_code": 96,
+      "phone_prefix": 359
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Burkina Faso",
+      "alpha2code": "BF",
+      "alpha3code": "BFA",
+      "numeric_code": 100,
+      "phone_prefix": 226
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Burundi",
+      "alpha2code": "BI",
+      "alpha3code": "BDI",
+      "numeric_code": 854,
+      "phone_prefix": 257
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Cabo Verde",
+      "alpha2code": "CV",
+      "alpha3code": "CPV",
+      "numeric_code": 108,
+      "phone_prefix": 238
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Camboya",
+      "alpha2code": "KH",
+      "alpha3code": "KHM",
+      "numeric_code": 64,
+      "phone_prefix": 855
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Camerún",
+      "alpha2code": "CM",
+      "alpha3code": "CMR",
+      "numeric_code": 132,
+      "phone_prefix": 237
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Canadá",
+      "alpha2code": "CA",
+      "alpha3code": "CAN",
+      "numeric_code": 116,
+      "phone_prefix": 1
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Chad",
+      "alpha2code": "TD",
+      "alpha3code": "TCD",
+      "numeric_code": 120,
+      "phone_prefix": 235
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Chile",
+      "alpha2code": "CL",
+      "alpha3code": "CHL",
+      "numeric_code": 124,
+      "phone_prefix": 56
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "China",
+      "alpha2code": "CN",
+      "alpha3code": "CHN",
+      "numeric_code": 634,
+      "phone_prefix": 86
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Chipre",
+      "alpha2code": "CY",
+      "alpha3code": "CYP",
+      "numeric_code": 535,
+      "phone_prefix": 357
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Ciudad del Vaticano",
+      "alpha2code": "VA",
+      "alpha3code": "VAT",
+      "numeric_code": 148,
+      "phone_prefix": 39
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Colombia",
+      "alpha2code": "CO",
+      "alpha3code": "COL",
+      "numeric_code": 152,
+      "phone_prefix": 57
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Comoras",
+      "alpha2code": "KM",
+      "alpha3code": "COM",
+      "numeric_code": 156,
+      "phone_prefix": 269
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "República del Congo",
+      "alpha2code": "CG",
+      "alpha3code": "COG",
+      "numeric_code": 196,
+      "phone_prefix": 242
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "República Democrática del Congo",
+      "alpha2code": "CD",
+      "alpha3code": "COD",
+      "numeric_code": 170,
+      "phone_prefix": 243
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Corea del Norte",
+      "alpha2code": "KP",
+      "alpha3code": "PRK",
+      "numeric_code": 174,
+      "phone_prefix": 850
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Corea del Sur",
+      "alpha2code": "KR",
+      "alpha3code": "KOR",
+      "numeric_code": 408,
+      "phone_prefix": 82
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Costa de Marfil",
+      "alpha2code": "CI",
+      "alpha3code": "CIV",
+      "numeric_code": 410,
+      "phone_prefix": 225
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Costa Rica",
+      "alpha2code": "CR",
+      "alpha3code": "CRI",
+      "numeric_code": 384,
+      "phone_prefix": 506
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Croacia",
+      "alpha2code": "HR",
+      "alpha3code": "HRV",
+      "numeric_code": 188,
+      "phone_prefix": 385
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Cuba",
+      "alpha2code": "CU",
+      "alpha3code": "CUB",
+      "numeric_code": 191,
+      "phone_prefix": 53
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Curazao",
+      "alpha2code": "CW",
+      "alpha3code": "CWU",
+      "numeric_code": 192,
+      "phone_prefix": 5999
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Dinamarca",
+      "alpha2code": "DK",
+      "alpha3code": "DNK",
+      "numeric_code": 531,
+      "phone_prefix": 45
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Dominica",
+      "alpha2code": "DM",
+      "alpha3code": "DMA",
+      "numeric_code": 208,
+      "phone_prefix": 1767
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Ecuador",
+      "alpha2code": "EC",
+      "alpha3code": "ECU",
+      "numeric_code": 212,
+      "phone_prefix": 593
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Egipto",
+      "alpha2code": "EG",
+      "alpha3code": "EGY",
+      "numeric_code": 218,
+      "phone_prefix": 20
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "El Salvador",
+      "alpha2code": "SV",
+      "alpha3code": "SLV",
+      "numeric_code": 818,
+      "phone_prefix": 503
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Emiratos Árabes Unidos",
+      "alpha2code": "AE",
+      "alpha3code": "ARE",
+      "numeric_code": 222,
+      "phone_prefix": 971
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Eritrea",
+      "alpha2code": "ER",
+      "alpha3code": "ERI",
+      "numeric_code": 784,
+      "phone_prefix": 291
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Eslovaquia",
+      "alpha2code": "SK",
+      "alpha3code": "SVK",
+      "numeric_code": 232,
+      "phone_prefix": 421
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Eslovenia",
+      "alpha2code": "SI",
+      "alpha3code": "SVN",
+      "numeric_code": 703,
+      "phone_prefix": 386
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "España",
+      "alpha2code": "ES",
+      "alpha3code": "ESP",
+      "numeric_code": 705,
+      "phone_prefix": 34
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Estados Unidos de América",
+      "alpha2code": "US",
+      "alpha3code": "USA",
+      "numeric_code": 724,
+      "phone_prefix": 1
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Estonia",
+      "alpha2code": "EE",
+      "alpha3code": "EST",
+      "numeric_code": 840,
+      "phone_prefix": 372
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Etiopía",
+      "alpha2code": "ET",
+      "alpha3code": "ETH",
+      "numeric_code": 233,
+      "phone_prefix": 251
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Filipinas",
+      "alpha2code": "PH",
+      "alpha3code": "PHL",
+      "numeric_code": 231,
+      "phone_prefix": 63
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Finlandia",
+      "alpha2code": "FI",
+      "alpha3code": "FIN",
+      "numeric_code": 608,
+      "phone_prefix": 358
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Fiyi",
+      "alpha2code": "FJ",
+      "alpha3code": "FJI",
+      "numeric_code": 246,
+      "phone_prefix": 679
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Francia",
+      "alpha2code": "FR",
+      "alpha3code": "FRA",
+      "numeric_code": 242,
+      "phone_prefix": 33
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Gabón",
+      "alpha2code": "GA",
+      "alpha3code": "GAB",
+      "numeric_code": 250,
+      "phone_prefix": 241
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Gambia",
+      "alpha2code": "GM",
+      "alpha3code": "GMB",
+      "numeric_code": 266,
+      "phone_prefix": 220
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Georgia",
+      "alpha2code": "GE",
+      "alpha3code": "GEO",
+      "numeric_code": 270,
+      "phone_prefix": 995
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Ghana",
+      "alpha2code": "GH",
+      "alpha3code": "GHA",
+      "numeric_code": 268,
+      "phone_prefix": 233
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Gibraltar",
+      "alpha2code": "GI",
+      "alpha3code": "GIB",
+      "numeric_code": 288,
+      "phone_prefix": 350
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Granada",
+      "alpha2code": "GD",
+      "alpha3code": "GRD",
+      "numeric_code": 292,
+      "phone_prefix": 1473
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Grecia",
+      "alpha2code": "GR",
+      "alpha3code": "GRC",
+      "numeric_code": 308,
+      "phone_prefix": 30
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Groenlandia",
+      "alpha2code": "GL",
+      "alpha3code": "GRL",
+      "numeric_code": 300,
+      "phone_prefix": 299
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guadalupe",
+      "alpha2code": "GP",
+      "alpha3code": "GLP",
+      "numeric_code": 304,
+      "phone_prefix": 590
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guam",
+      "alpha2code": "GU",
+      "alpha3code": "GUM",
+      "numeric_code": 312,
+      "phone_prefix": 1671
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guatemala",
+      "alpha2code": "GT",
+      "alpha3code": "GTM",
+      "numeric_code": 316,
+      "phone_prefix": 502
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guayana Francesa",
+      "alpha2code": "GF",
+      "alpha3code": "GUF",
+      "numeric_code": 320,
+      "phone_prefix": 594
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guernsey",
+      "alpha2code": "GG",
+      "alpha3code": "GGY",
+      "numeric_code": 254,
+      "phone_prefix": 44
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guinea",
+      "alpha2code": "GN",
+      "alpha3code": "GIN",
+      "numeric_code": 831,
+      "phone_prefix": 224
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guinea Ecuatorial",
+      "alpha2code": "GQ",
+      "alpha3code": "GNQ",
+      "numeric_code": 324,
+      "phone_prefix": 240
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guinea-Bissau",
+      "alpha2code": "GW",
+      "alpha3code": "GNB",
+      "numeric_code": 624,
+      "phone_prefix": 245
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Guyana",
+      "alpha2code": "GY",
+      "alpha3code": "GUY",
+      "numeric_code": 226,
+      "phone_prefix": 592
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Haití",
+      "alpha2code": "HT",
+      "alpha3code": "HTI",
+      "numeric_code": 328,
+      "phone_prefix": 509
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Honduras",
+      "alpha2code": "HN",
+      "alpha3code": "HND",
+      "numeric_code": 332,
+      "phone_prefix": 504
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Hong kong",
+      "alpha2code": "HK",
+      "alpha3code": "HKG",
+      "numeric_code": 340,
+      "phone_prefix": 852
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Hungría",
+      "alpha2code": "HU",
+      "alpha3code": "HUN",
+      "numeric_code": 344,
+      "phone_prefix": 36
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "India",
+      "alpha2code": "IN",
+      "alpha3code": "IND",
+      "numeric_code": 348,
+      "phone_prefix": 91
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Indonesia",
+      "alpha2code": "ID",
+      "alpha3code": "IDN",
+      "numeric_code": 356,
+      "phone_prefix": 62
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Irán",
+      "alpha2code": "IR",
+      "alpha3code": "IRN",
+      "numeric_code": 360,
+      "phone_prefix": 98
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Irak",
+      "alpha2code": "IQ",
+      "alpha3code": "IRQ",
+      "numeric_code": 368,
+      "phone_prefix": 964
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Irlanda",
+      "alpha2code": "IE",
+      "alpha3code": "IRL",
+      "numeric_code": 364,
+      "phone_prefix": 353
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Isla Bouvet",
+      "alpha2code": "BV",
+      "alpha3code": "BVT",
+      "numeric_code": 372,
+      "phone_prefix": 0
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Isla de Man",
+      "alpha2code": "IM",
+      "alpha3code": "IMN",
+      "numeric_code": 74,
+      "phone_prefix": 44
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Isla de Navidad",
+      "alpha2code": "CX",
+      "alpha3code": "CXR",
+      "numeric_code": 833,
+      "phone_prefix": 61
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Isla Norfolk",
+      "alpha2code": "NF",
+      "alpha3code": "NFK",
+      "numeric_code": 162,
+      "phone_prefix": 672
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islandia",
+      "alpha2code": "IS",
+      "alpha3code": "ISL",
+      "numeric_code": 574,
+      "phone_prefix": 354
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Bermudas",
+      "alpha2code": "BM",
+      "alpha3code": "BMU",
+      "numeric_code": 352,
+      "phone_prefix": 1441
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Caimán",
+      "alpha2code": "KY",
+      "alpha3code": "CYM",
+      "numeric_code": 136,
+      "phone_prefix": 1345
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Cocos (Keeling)",
+      "alpha2code": "CC",
+      "alpha3code": "CCK",
+      "numeric_code": 166,
+      "phone_prefix": 61
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Cook",
+      "alpha2code": "CK",
+      "alpha3code": "COK",
+      "numeric_code": 184,
+      "phone_prefix": 682
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas de Åland",
+      "alpha2code": "AX",
+      "alpha3code": "ALA",
+      "numeric_code": 234,
+      "phone_prefix": 358
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Feroe",
+      "alpha2code": "FO",
+      "alpha3code": "FRO",
+      "numeric_code": 239,
+      "phone_prefix": 298
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Georgias del Sur y Sandwich del Sur",
+      "alpha2code": "GS",
+      "alpha3code": "SGS",
+      "numeric_code": 334,
+      "phone_prefix": 500
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Heard y McDonald",
+      "alpha2code": "HM",
+      "alpha3code": "HMD",
+      "numeric_code": 238,
+      "phone_prefix": 0
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Maldivas",
+      "alpha2code": "MV",
+      "alpha3code": "MDV",
+      "numeric_code": 580,
+      "phone_prefix": 960
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Malvinas",
+      "alpha2code": "FK",
+      "alpha3code": "FLK",
+      "numeric_code": 584,
+      "phone_prefix": 500
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Marianas del Norte",
+      "alpha2code": "MP",
+      "alpha3code": "MNP",
+      "numeric_code": 612,
+      "phone_prefix": 1670
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Marshall",
+      "alpha2code": "MH",
+      "alpha3code": "MHL",
+      "numeric_code": 90,
+      "phone_prefix": 692
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Pitcairn",
+      "alpha2code": "PN",
+      "alpha3code": "PCN",
+      "numeric_code": 796,
+      "phone_prefix": 870
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Salomón",
+      "alpha2code": "SB",
+      "alpha3code": "SLB",
+      "numeric_code": 581,
+      "phone_prefix": 677
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Turcas y Caicos",
+      "alpha2code": "TC",
+      "alpha3code": "TCA",
+      "numeric_code": 92,
+      "phone_prefix": 1649
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Ultramarinas Menores de Estados Unidos",
+      "alpha2code": "UM",
+      "alpha3code": "UMI",
+      "numeric_code": 850,
+      "phone_prefix": 246
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Vírgenes Británicas",
+      "alpha2code": "VG",
+      "alpha3code": "VGB",
+      "numeric_code": 376,
+      "phone_prefix": 1284
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Islas Vírgenes de los Estados Unidos",
+      "alpha2code": "VI",
+      "alpha3code": "VIR",
+      "numeric_code": 380,
+      "phone_prefix": 1340
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Israel",
+      "alpha2code": "IL",
+      "alpha3code": "ISR",
+      "numeric_code": 388,
+      "phone_prefix": 972
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Italia",
+      "alpha2code": "IT",
+      "alpha3code": "ITA",
+      "numeric_code": 392,
+      "phone_prefix": 39
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Jamaica",
+      "alpha2code": "JM",
+      "alpha3code": "JAM",
+      "numeric_code": 832,
+      "phone_prefix": 1876
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Japón",
+      "alpha2code": "JP",
+      "alpha3code": "JPN",
+      "numeric_code": 400,
+      "phone_prefix": 81
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Jersey",
+      "alpha2code": "JE",
+      "alpha3code": "JEY",
+      "numeric_code": 398,
+      "phone_prefix": 44
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Jordania",
+      "alpha2code": "JO",
+      "alpha3code": "JOR",
+      "numeric_code": 404,
+      "phone_prefix": 962
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Kazajistán",
+      "alpha2code": "KZ",
+      "alpha3code": "KAZ",
+      "numeric_code": 417,
+      "phone_prefix": 7
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Kenia",
+      "alpha2code": "KE",
+      "alpha3code": "KEN",
+      "numeric_code": 296,
+      "phone_prefix": 254
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Kirguistán",
+      "alpha2code": "KG",
+      "alpha3code": "KGZ",
+      "numeric_code": 414,
+      "phone_prefix": 996
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Kiribati",
+      "alpha2code": "KI",
+      "alpha3code": "KIR",
+      "numeric_code": 418,
+      "phone_prefix": 686
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Kuwait",
+      "alpha2code": "KW",
+      "alpha3code": "KWT",
+      "numeric_code": 426,
+      "phone_prefix": 965
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Líbano",
+      "alpha2code": "LB",
+      "alpha3code": "LBN",
+      "numeric_code": 428,
+      "phone_prefix": 961
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Laos",
+      "alpha2code": "LA",
+      "alpha3code": "LAO",
+      "numeric_code": 422,
+      "phone_prefix": 856
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Lesoto",
+      "alpha2code": "LS",
+      "alpha3code": "LSO",
+      "numeric_code": 430,
+      "phone_prefix": 266
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Letonia",
+      "alpha2code": "LV",
+      "alpha3code": "LVA",
+      "numeric_code": 434,
+      "phone_prefix": 371
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Liberia",
+      "alpha2code": "LR",
+      "alpha3code": "LBR",
+      "numeric_code": 438,
+      "phone_prefix": 231
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Libia",
+      "alpha2code": "LY",
+      "alpha3code": "LBY",
+      "numeric_code": 440,
+      "phone_prefix": 218
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Liechtenstein",
+      "alpha2code": "LI",
+      "alpha3code": "LIE",
+      "numeric_code": 442,
+      "phone_prefix": 423
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Lituania",
+      "alpha2code": "LT",
+      "alpha3code": "LTU",
+      "numeric_code": 446,
+      "phone_prefix": 370
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Luxemburgo",
+      "alpha2code": "LU",
+      "alpha3code": "LUX",
+      "numeric_code": 450,
+      "phone_prefix": 352
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "México",
+      "alpha2code": "MX",
+      "alpha3code": "MEX",
+      "numeric_code": 458,
+      "phone_prefix": 52
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mónaco",
+      "alpha2code": "MC",
+      "alpha3code": "MCO",
+      "numeric_code": 454,
+      "phone_prefix": 377
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Macao",
+      "alpha2code": "MO",
+      "alpha3code": "MAC",
+      "numeric_code": 462,
+      "phone_prefix": 853
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Macedônia",
+      "alpha2code": "MK",
+      "alpha3code": "MKD",
+      "numeric_code": 466,
+      "phone_prefix": 389
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Madagascar",
+      "alpha2code": "MG",
+      "alpha3code": "MDG",
+      "numeric_code": 470,
+      "phone_prefix": 261
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Malasia",
+      "alpha2code": "MY",
+      "alpha3code": "MYS",
+      "numeric_code": 504,
+      "phone_prefix": 60
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Malawi",
+      "alpha2code": "MW",
+      "alpha3code": "MWI",
+      "numeric_code": 474,
+      "phone_prefix": 265
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mali",
+      "alpha2code": "ML",
+      "alpha3code": "MLI",
+      "numeric_code": 480,
+      "phone_prefix": 223
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Malta",
+      "alpha2code": "MT",
+      "alpha3code": "MLT",
+      "numeric_code": 478,
+      "phone_prefix": 356
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Marruecos",
+      "alpha2code": "MA",
+      "alpha3code": "MAR",
+      "numeric_code": 175,
+      "phone_prefix": 212
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Martinica",
+      "alpha2code": "MQ",
+      "alpha3code": "MTQ",
+      "numeric_code": 484,
+      "phone_prefix": 596
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mauricio",
+      "alpha2code": "MU",
+      "alpha3code": "MUS",
+      "numeric_code": 583,
+      "phone_prefix": 230
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mauritania",
+      "alpha2code": "MR",
+      "alpha3code": "MRT",
+      "numeric_code": 498,
+      "phone_prefix": 222
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mayotte",
+      "alpha2code": "YT",
+      "alpha3code": "MYT",
+      "numeric_code": 492,
+      "phone_prefix": 262
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Micronesia",
+      "alpha2code": "FM",
+      "alpha3code": "FSM",
+      "numeric_code": 496,
+      "phone_prefix": 691
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Moldavia",
+      "alpha2code": "MD",
+      "alpha3code": "MDA",
+      "numeric_code": 499,
+      "phone_prefix": 373
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mongolia",
+      "alpha2code": "MN",
+      "alpha3code": "MNG",
+      "numeric_code": 500,
+      "phone_prefix": 976
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Montenegro",
+      "alpha2code": "ME",
+      "alpha3code": "MNE",
+      "numeric_code": 508,
+      "phone_prefix": 382
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Montserrat",
+      "alpha2code": "MS",
+      "alpha3code": "MSR",
+      "numeric_code": 516,
+      "phone_prefix": 1664
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Mozambique",
+      "alpha2code": "MZ",
+      "alpha3code": "MOZ",
+      "numeric_code": 520,
+      "phone_prefix": 258
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Namibia",
+      "alpha2code": "NA",
+      "alpha3code": "NAM",
+      "numeric_code": 524,
+      "phone_prefix": 264
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Nauru",
+      "alpha2code": "NR",
+      "alpha3code": "NRU",
+      "numeric_code": 558,
+      "phone_prefix": 674
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Nepal",
+      "alpha2code": "NP",
+      "alpha3code": "NPL",
+      "numeric_code": 562,
+      "phone_prefix": 977
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Nicaragua",
+      "alpha2code": "NI",
+      "alpha3code": "NIC",
+      "numeric_code": 566,
+      "phone_prefix": 505
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Niger",
+      "alpha2code": "NE",
+      "alpha3code": "NER",
+      "numeric_code": 570,
+      "phone_prefix": 227
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Nigeria",
+      "alpha2code": "NG",
+      "alpha3code": "NGA",
+      "numeric_code": 578,
+      "phone_prefix": 234
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Niue",
+      "alpha2code": "NU",
+      "alpha3code": "NIU",
+      "numeric_code": 540,
+      "phone_prefix": 683
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Noruega",
+      "alpha2code": "NO",
+      "alpha3code": "NOR",
+      "numeric_code": 554,
+      "phone_prefix": 47
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Nueva Caledonia",
+      "alpha2code": "NC",
+      "alpha3code": "NCL",
+      "numeric_code": 512,
+      "phone_prefix": 687
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Nueva Zelanda",
+      "alpha2code": "NZ",
+      "alpha3code": "NZL",
+      "numeric_code": 528,
+      "phone_prefix": 64
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Omán",
+      "alpha2code": "OM",
+      "alpha3code": "OMN",
+      "numeric_code": 586,
+      "phone_prefix": 968
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Países Bajos",
+      "alpha2code": "NL",
+      "alpha3code": "NLD",
+      "numeric_code": 585,
+      "phone_prefix": 31
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Pakistán",
+      "alpha2code": "PK",
+      "alpha3code": "PAK",
+      "numeric_code": 275,
+      "phone_prefix": 92
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Palau",
+      "alpha2code": "PW",
+      "alpha3code": "PLW",
+      "numeric_code": 591,
+      "phone_prefix": 680
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Palestina",
+      "alpha2code": "PS",
+      "alpha3code": "PSE",
+      "numeric_code": 598,
+      "phone_prefix": 970
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Panamá",
+      "alpha2code": "PA",
+      "alpha3code": "PAN",
+      "numeric_code": 600,
+      "phone_prefix": 507
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Papúa Nueva Guinea",
+      "alpha2code": "PG",
+      "alpha3code": "PNG",
+      "numeric_code": 604,
+      "phone_prefix": 675
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Paraguay",
+      "alpha2code": "PY",
+      "alpha3code": "PRY",
+      "numeric_code": 258,
+      "phone_prefix": 595
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Perú",
+      "alpha2code": "PE",
+      "alpha3code": "PER",
+      "numeric_code": 616,
+      "phone_prefix": 51
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Polinesia Francesa",
+      "alpha2code": "PF",
+      "alpha3code": "PYF",
+      "numeric_code": 620,
+      "phone_prefix": 689
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Polonia",
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "numeric_code": 630,
+      "phone_prefix": 48
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Portugal",
+      "alpha2code": "PT",
+      "alpha3code": "PRT",
+      "numeric_code": 826,
+      "phone_prefix": 351
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Puerto Rico",
+      "alpha2code": "PR",
+      "alpha3code": "PRI",
+      "numeric_code": 140,
+      "phone_prefix": 1
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Qatar",
+      "alpha2code": "QA",
+      "alpha3code": "QAT",
+      "numeric_code": 203,
+      "phone_prefix": 974
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Reino Unido",
+      "alpha2code": "GB",
+      "alpha3code": "GBR",
+      "numeric_code": 807,
+      "phone_prefix": 44
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "República Centroafricana",
+      "alpha2code": "CF",
+      "alpha3code": "CAF",
+      "numeric_code": 178,
+      "phone_prefix": 236
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "República Checa",
+      "alpha2code": "CZ",
+      "alpha3code": "CZE",
+      "numeric_code": 180,
+      "phone_prefix": 420
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "República Dominicana",
+      "alpha2code": "DO",
+      "alpha3code": "DOM",
+      "numeric_code": 214,
+      "phone_prefix": 1809
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "República de Sudán del Sur",
+      "alpha2code": "SS",
+      "alpha3code": "SSD",
+      "numeric_code": 638,
+      "phone_prefix": 211
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Reunión",
+      "alpha2code": "RE",
+      "alpha3code": "REU",
+      "numeric_code": 646,
+      "phone_prefix": 262
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Ruanda",
+      "alpha2code": "RW",
+      "alpha3code": "RWA",
+      "numeric_code": 642,
+      "phone_prefix": 250
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Rumanía",
+      "alpha2code": "RO",
+      "alpha3code": "ROU",
+      "numeric_code": 643,
+      "phone_prefix": 40
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Rusia",
+      "alpha2code": "RU",
+      "alpha3code": "RUS",
+      "numeric_code": 732,
+      "phone_prefix": 7
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Sahara Occidental",
+      "alpha2code": "EH",
+      "alpha3code": "ESH",
+      "numeric_code": 882,
+      "phone_prefix": 212
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Samoa",
+      "alpha2code": "WS",
+      "alpha3code": "WSM",
+      "numeric_code": 16,
+      "phone_prefix": 685
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Samoa Americana",
+      "alpha2code": "AS",
+      "alpha3code": "ASM",
+      "numeric_code": 652,
+      "phone_prefix": 1684
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "San Bartolomé",
+      "alpha2code": "BL",
+      "alpha3code": "BLM",
+      "numeric_code": 659,
+      "phone_prefix": 590
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "San Cristóbal y Nieves",
+      "alpha2code": "KN",
+      "alpha3code": "KNA",
+      "numeric_code": 674,
+      "phone_prefix": 1869
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "San Marino",
+      "alpha2code": "SM",
+      "alpha3code": "SMR",
+      "numeric_code": 663,
+      "phone_prefix": 378
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "San Martín (Francia)",
+      "alpha2code": "MF",
+      "alpha3code": "MAF",
+      "numeric_code": 666,
+      "phone_prefix": 1599
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "San Pedro y Miquelón",
+      "alpha2code": "PM",
+      "alpha3code": "SPM",
+      "numeric_code": 670,
+      "phone_prefix": 508
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "San Vicente y las Granadinas",
+      "alpha2code": "VC",
+      "alpha3code": "VCT",
+      "numeric_code": 654,
+      "phone_prefix": 1784
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Santa Elena",
+      "alpha2code": "SH",
+      "alpha3code": "SHN",
+      "numeric_code": 662,
+      "phone_prefix": 290
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Santa Lucía",
+      "alpha2code": "LC",
+      "alpha3code": "LCA",
+      "numeric_code": 678,
+      "phone_prefix": 1758
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Santo Tomé y Príncipe",
+      "alpha2code": "ST",
+      "alpha3code": "STP",
+      "numeric_code": 686,
+      "phone_prefix": 239
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Senegal",
+      "alpha2code": "SN",
+      "alpha3code": "SEN",
+      "numeric_code": 688,
+      "phone_prefix": 221
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Serbia",
+      "alpha2code": "RS",
+      "alpha3code": "SRB",
+      "numeric_code": 690,
+      "phone_prefix": 381
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Seychelles",
+      "alpha2code": "SC",
+      "alpha3code": "SYC",
+      "numeric_code": 694,
+      "phone_prefix": 248
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Sierra Leona",
+      "alpha2code": "SL",
+      "alpha3code": "SLE",
+      "numeric_code": 702,
+      "phone_prefix": 232
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Singapur",
+      "alpha2code": "SG",
+      "alpha3code": "SGP",
+      "numeric_code": 534,
+      "phone_prefix": 65
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Sint Maarten",
+      "alpha2code": "SX",
+      "alpha3code": "SMX",
+      "numeric_code": 760,
+      "phone_prefix": 1721
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Siria",
+      "alpha2code": "SY",
+      "alpha3code": "SYR",
+      "numeric_code": 706,
+      "phone_prefix": 963
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Somalia",
+      "alpha2code": "SO",
+      "alpha3code": "SOM",
+      "numeric_code": 144,
+      "phone_prefix": 252
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Sri lanka",
+      "alpha2code": "LK",
+      "alpha3code": "LKA",
+      "numeric_code": 748,
+      "phone_prefix": 94
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Sudáfrica",
+      "alpha2code": "ZA",
+      "alpha3code": "ZAF",
+      "numeric_code": 710,
+      "phone_prefix": 27
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Sudán",
+      "alpha2code": "SD",
+      "alpha3code": "SDN",
+      "numeric_code": 729,
+      "phone_prefix": 249
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Suecia",
+      "alpha2code": "SE",
+      "alpha3code": "SWE",
+      "numeric_code": 728,
+      "phone_prefix": 46
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Suiza",
+      "alpha2code": "CH",
+      "alpha3code": "CHE",
+      "numeric_code": 752,
+      "phone_prefix": 41
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Surinám",
+      "alpha2code": "SR",
+      "alpha3code": "SUR",
+      "numeric_code": 756,
+      "phone_prefix": 597
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Svalbard y Jan Mayen",
+      "alpha2code": "SJ",
+      "alpha3code": "SJM",
+      "numeric_code": 740,
+      "phone_prefix": 47
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Swazilandia",
+      "alpha2code": "SZ",
+      "alpha3code": "SWZ",
+      "numeric_code": 744,
+      "phone_prefix": 268
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tayikistán",
+      "alpha2code": "TJ",
+      "alpha3code": "TJK",
+      "numeric_code": 764,
+      "phone_prefix": 992
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tailandia",
+      "alpha2code": "TH",
+      "alpha3code": "THA",
+      "numeric_code": 158,
+      "phone_prefix": 66
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Taiwán",
+      "alpha2code": "TW",
+      "alpha3code": "TWN",
+      "numeric_code": 834,
+      "phone_prefix": 886
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tanzania",
+      "alpha2code": "TZ",
+      "alpha3code": "TZA",
+      "numeric_code": 762,
+      "phone_prefix": 255
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Territorio Británico del Océano Índico",
+      "alpha2code": "IO",
+      "alpha3code": "IOT",
+      "numeric_code": 86,
+      "phone_prefix": 246
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Territorios Australes y Antárticas Franceses",
+      "alpha2code": "TF",
+      "alpha3code": "ATF",
+      "numeric_code": 260,
+      "phone_prefix": 0
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Timor Oriental",
+      "alpha2code": "TL",
+      "alpha3code": "TLS",
+      "numeric_code": 626,
+      "phone_prefix": 670
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Togo",
+      "alpha2code": "TG",
+      "alpha3code": "TGO",
+      "numeric_code": 768,
+      "phone_prefix": 228
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tokelau",
+      "alpha2code": "TK",
+      "alpha3code": "TKL",
+      "numeric_code": 772,
+      "phone_prefix": 690
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tonga",
+      "alpha2code": "TO",
+      "alpha3code": "TON",
+      "numeric_code": 776,
+      "phone_prefix": 676
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Trinidad y Tobago",
+      "alpha2code": "TT",
+      "alpha3code": "TTO",
+      "numeric_code": 780,
+      "phone_prefix": 1868
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tunez",
+      "alpha2code": "TN",
+      "alpha3code": "TUN",
+      "numeric_code": 788,
+      "phone_prefix": 216
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Turkmenistán",
+      "alpha2code": "TM",
+      "alpha3code": "TKM",
+      "numeric_code": 795,
+      "phone_prefix": 993
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Turquía",
+      "alpha2code": "TR",
+      "alpha3code": "TUR",
+      "numeric_code": 792,
+      "phone_prefix": 90
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Tuvalu",
+      "alpha2code": "TV",
+      "alpha3code": "TUV",
+      "numeric_code": 798,
+      "phone_prefix": 688
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Ucrania",
+      "alpha2code": "UA",
+      "alpha3code": "UKR",
+      "numeric_code": 804,
+      "phone_prefix": 380
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Uganda",
+      "alpha2code": "UG",
+      "alpha3code": "UGA",
+      "numeric_code": 800,
+      "phone_prefix": 256
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Uruguay",
+      "alpha2code": "UY",
+      "alpha3code": "URY",
+      "numeric_code": 858,
+      "phone_prefix": 598
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Uzbekistán",
+      "alpha2code": "UZ",
+      "alpha3code": "UZB",
+      "numeric_code": 860,
+      "phone_prefix": 998
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Vanuatu",
+      "alpha2code": "VU",
+      "alpha3code": "VUT",
+      "numeric_code": 548,
+      "phone_prefix": 678
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Venezuela",
+      "alpha2code": "VE",
+      "alpha3code": "VEN",
+      "numeric_code": 336,
+      "phone_prefix": 58
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Vietnam",
+      "alpha2code": "VN",
+      "alpha3code": "VNM",
+      "numeric_code": 862,
+      "phone_prefix": 84
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Wallis y Futuna",
+      "alpha2code": "WF",
+      "alpha3code": "WLF",
+      "numeric_code": 704,
+      "phone_prefix": 681
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Yemen",
+      "alpha2code": "YE",
+      "alpha3code": "YEM",
+      "numeric_code": 876,
+      "phone_prefix": 967
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Yibuti",
+      "alpha2code": "DJ",
+      "alpha3code": "DJI",
+      "numeric_code": 887,
+      "phone_prefix": 253
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Zambia",
+      "alpha2code": "ZM",
+      "alpha3code": "ZMB",
+      "numeric_code": 262,
+      "phone_prefix": 260
+    }
+  },
+  {
+    "model": "commons.Country",
+    "fields": {
+      "name": "Zimbabue",
+      "alpha2code": "ZW",
+      "alpha3code": "ZWE",
+      "numeric_code": 894,
+      "phone_prefix": 263
+    }
+  }
+]

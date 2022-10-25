@@ -1,0 +1,16 @@
+[
+  {
+    "model": "commons.language",
+    "fields": {
+      "name": "spanish",
+      "code": "es"
+    }
+  },
+  {
+    "model": "commons.language",
+    "fields": {
+      "name": "english",
+      "code": "en"
+    }
+  }
+]
